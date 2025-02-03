@@ -40,12 +40,14 @@ import java.util.Scanner;
             System.out.println("Por favor, digite o saldo da conta: ");
             saldo = scanner.nextDouble();
             // Exibir as informações da conta após a coleta
-            System.out.println("\n--- Dados da Conta Bancária ---");
-            System.out.println("Número da Conta: " + numeroConta);
-            System.out.println("Agência: " + agencia);
-            System.out.println("Nome do Cliente: " + nomeCliente);
-            System.out.println("Saldo: R$ " + saldo);
+            String mensagem = "Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, "
+                          + "sua agência é " + agencia + ", conta " + numeroConta 
+                          + " e seu saldo R$ " + saldo + " já está disponível para saque.";
+
+            System.out.println(mensagem);
+
             // Fechar o objeto Scanner
+            scanner.close();
         }
     }
 }
