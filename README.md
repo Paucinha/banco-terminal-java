@@ -1,4 +1,4 @@
-# Simulando Uma Conta Bancária Através Do Terminal/Console
+# Simulando Uma Conta Bancária através do Terminal/Console
 
 ![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
 
