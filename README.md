@@ -4,7 +4,7 @@
 
 Ponha em prática os fundamentos da linguagem e noções de regras de estrutura de sintaxe.
 
-** Java | Git | Back-End | Básico**
+**Java | Git | Back-End | Básico**
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
