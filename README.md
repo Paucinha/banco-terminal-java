@@ -1,10 +1,12 @@
-# Desafio: Simulando Uma Conta Bancária Através Do Terminal/Console
+# Simulando Uma Conta Bancária Através Do Terminal/Console
 
 ![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
 
 Ponha em prática os fundamentos da linguagem e noções de regras de estrutura de sintaxe.
 
 **Java | Git | Back-End | Básico**
+
+## Desafio
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
@@ -37,13 +39,8 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 
 ##
 
-
-
 Projeto desenvolvido durante o [**Bootcamp Bradesco - Java Cloud Native**](https://www.dio.me/bootcamp/bradesco-java-cloud-native), fornecido pela [**DIO**](https://www.dio.me/)
 
 ##
 
-By Paucinha!!!
-
-https://www.linkedin.com/in/paucia-lisboa/
-
+- [By Páucinha](https://github.com/Paucinha)
